@@ -1,1 +1,1 @@
-showing my current directory
+working with editors
